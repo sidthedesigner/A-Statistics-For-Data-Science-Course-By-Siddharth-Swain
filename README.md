@@ -135,10 +135,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 16. Scatter Plots
 
-17. Pearson's r Correlation
+17. Covariance
 
-18. Hypothesis Testing with Pearson's r
+18. Covariance vs. Correlation
 
-19. The Spearman Correlation
+19. Pearson's r Correlation
 
-20. Linear Regression
+20. Hypothesis Testing with Pearson's r
+
+21. The Spearman Correlation
+
+22. Linear Regression
+
+23. Correlation vs. Causation
