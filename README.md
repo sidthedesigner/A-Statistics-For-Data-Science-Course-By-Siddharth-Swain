@@ -94,3 +94,51 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     4. How to Interpret Z-Scores?
     5. Standardization (Application of Z-Score)
     6. Z-Scores (More Examples)
+
+## 002_Statistics (Part 2)
+
+1. Probability
+    1. Introduction
+    2. Formula
+    3. Terms
+    4. Examples
+    5. Addition Rule
+    6. Multiplication Rule
+
+2. Permutations
+
+3. Combinations
+
+4. Discrete and Continuous Random Variables
+
+5. Probability Distribution
+
+6. Probability Histogram
+
+7. Mean and Expected Value of Discrete Random Variables
+
+8. Variance and Standard Deviation of Discrete Random Variables
+
+9. The Law of Large Numbers
+
+10. Binomial Distribution
+
+11. Mean and Standard Deviation of Binomial Random Variables
+
+12. Poisson Distribution
+
+13. Mean and Standard Deviation of Poisson Random Variables
+
+14. Coordinate (Cartesian) Planes
+
+15. Quadrants 
+
+16. Scatter Plots
+
+17. Pearson's r Correlation
+
+18. Hypothesis Testing with Pearson's r
+
+19. The Spearman Correlation
+
+20. Linear Regression
