@@ -121,30 +121,46 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 9. The Law of Large Numbers
 
-10. Binomial Distribution
+10. Probability Density Function
 
-11. Mean and Standard Deviation of Binomial Random Variables
+11. Probability Mass Function
 
-12. Poisson Distribution
+12. Cumulative Distribution Function
 
-13. Mean and Standard Deviation of Poisson Random Variables
+13. PDF and CDF on Iris Dataset
 
-14. Coordinate (Cartesian) Planes
+14. Kernel Density Estimation
 
-15. Quadrants 
+15. Binomial Distribution
 
-16. Scatter Plots
+16. Mean and Standard Deviation of Binomial Random Variables
 
-17. Covariance
+17. Bernoulli Distribution
 
-18. Covariance vs. Correlation
+18. Poisson Distribution
 
-19. Pearson's r Correlation
+19. Mean and Standard Deviation of Poisson Random Variables
 
-20. Hypothesis Testing with Pearson's r
+20. Chebyshev’s Inequality
 
-21. The Spearman Correlation
+21. Power Law
 
-22. Linear Regression
+22. Coordinate (Cartesian) Planes
 
-23. Correlation vs. Causation
+23. Quadrants 
+
+24. Scatter Plots
+
+25. Covariance
+
+26. Covariance vs. Correlation
+
+27. Pearson's r Correlation
+
+28. Hypothesis Testing with Pearson's r
+
+29. The Spearman Correlation
+
+30. Linear Regression
+
+31. Correlation vs. Causation
