@@ -200,3 +200,55 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 16. Statistical vs. Practical Significance
 
 17. Independent and Dependent Samples
+
+## 004_Statistics (Part 4)
+
+1. One Sample z-Test
+
+2. One Sample z-Test for Proportions
+
+3. One Sample t-Test
+
+4. Independent Samples t-Test
+
+5. Confidence Intervals for Independent Samples t-Test
+
+6. Effect Size for Independent Samples t-Test
+
+7. t-test, Two Dependent Samples
+
+8. Confidence Intervals for Dependent Samples t-Test
+
+9. Effect Size for Dependent Samples t-Test
+
+10. z-Test for Proportions, Two Samples
+
+11. Confidence Intervals for the Difference of Two Proportions
+
+12. Introduction to ANOVA
+
+13. One-Way ANOVA
+
+14. Effect Size for One-Way ANOVA
+
+15. Post Hoc Tests for One-Way ANOVA
+
+16. Repeated-Measures ANOVA
+
+17. Factorial ANOVA, Two Independent Factors
+
+18. Factorial ANOVA, Two Dependent Factors
+
+19. Factorial ANOVA, Two Mixed Factors
+
+20. Chi-Square Goodness-of-Fit Test
+
+21. Chi-Square Test for Independence
+
+22. Mann-Whitney U
+
+23. Wilcoxon Signed-Ranks Test
+
+24. Kruskal-Wallis Test
+
+25. Friedman Test
