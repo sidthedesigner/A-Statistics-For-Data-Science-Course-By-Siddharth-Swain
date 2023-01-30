@@ -164,3 +164,89 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 30. Linear Regression
 
 31. Correlation vs. Causation
+
+## 003_Statistics (Part 3)
+
+1. Parameter, Statistic, and Sampling Error
+
+2. Distribution of the Sample Mean
+
+3. The Central Limit Theorem
+
+4. Sample Proportions
+
+5. Confidence Intervals about the Mean, Population Standard Deviation
+
+6. Calculating Required Sample Size to Estimate Population Mean
+
+7. Student's t-Distribution
+
+8. Confidence Intervals about the Mean,
+
+9. Confidence Intervals for Population Proportions
+
+10. Calculating Required Sample Size to Estimate Population Proportions
+
+11. Null and Alternative Hypotheses
+
+12. Type I and Type II Errors
+
+13. One-Tailed and Two-Tailed Tests
+
+14. Effect Size
+
+15. Power
+
+16. Statistical vs. Practical Significance
+
+17. Independent and Dependent Samples
+
+18. One Sample z-Test
+
+19. One Sample z-Test for Proportions
+
+20. One Sample t-Test
+
+21. Independent Samples t-Test
+
+22. Confidence Intervals for Independent Samples t-Test
+
+23. Effect Size for Independent Samples t-Test
+
+24. t-test, Two Dependent Samples
+
+25. Confidence Intervals for Dependent Samples t-Test
+
+26. Effect Size for Dependent Samples t-Test
+
+27. z-Test for Proportions, Two Samples
+
+28. Confidence Intervals for the Difference of Two Proportions
+
+29. Introduction to ANOVA
+
+30. One-Way ANOVA
+
+31. Effect Size for One-Way ANOVA
+
+32. Post Hoc Tests for One-Way ANOVA
+
+33. Repeated-Measures ANOVA
+
+34. Factorial ANOVA, Two Independent Factors
+
+35. Factorial ANOVA, Two Dependent Factors
+
+36. Factorial ANOVA, Two Mixed Factors
+
+37. Chi-Square Goodness-of-Fit Test
+
+38. Chi-Square Test for Independence
+
+39. Mann-Whitney U
+
+40. Wilcoxon Signed-Ranks Test
+
+41. Kruskal-Wallis Test
+
+42. Friedman Test
